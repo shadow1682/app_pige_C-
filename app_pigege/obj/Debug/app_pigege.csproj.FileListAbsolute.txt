@@ -8,4 +8,3 @@ C:\Users\admin\Source\Repos\app_pige_C-\app_pigege\obj\Debug\app_pigege.Properti
 C:\Users\admin\Source\Repos\app_pige_C-\app_pigege\obj\Debug\app_pigege.csproj.GenerateResource.Cache
 C:\Users\admin\Source\Repos\app_pige_C-\app_pigege\obj\Debug\app_pigege.exe
 C:\Users\admin\Source\Repos\app_pige_C-\app_pigege\obj\Debug\app_pigege.pdb
-C:\Users\admin\Source\Repos\app_pige_C-\app_pigege\obj\Debug\app_pigege.csprojResolveAssemblyReference.cache
