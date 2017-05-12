@@ -1,0 +1,10 @@
+C:\Users\admin\Source\Repos\app_pige_C-\app_pigege\bin\Debug\app_pigege.exe.config
+C:\Users\admin\Source\Repos\app_pige_C-\app_pigege\bin\Debug\app_pigege.exe
+C:\Users\admin\Source\Repos\app_pige_C-\app_pigege\bin\Debug\app_pigege.pdb
+C:\Users\admin\Source\Repos\app_pige_C-\app_pigege\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\admin\Source\Repos\app_pige_C-\app_pigege\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\admin\Source\Repos\app_pige_C-\app_pigege\obj\Debug\app_pigege.Form1.resources
+C:\Users\admin\Source\Repos\app_pige_C-\app_pigege\obj\Debug\app_pigege.Properties.Resources.resources
+C:\Users\admin\Source\Repos\app_pige_C-\app_pigege\obj\Debug\app_pigege.csproj.GenerateResource.Cache
+C:\Users\admin\Source\Repos\app_pige_C-\app_pigege\obj\Debug\app_pigege.exe
+C:\Users\admin\Source\Repos\app_pige_C-\app_pigege\obj\Debug\app_pigege.pdb
