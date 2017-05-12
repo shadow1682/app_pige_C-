@@ -36,7 +36,7 @@ namespace app_pigege
 
         private void buttonNo_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("答案是必须的！", "恭喜你答对了");
+            MessageBox.Show("11111111", "恭喜你答对了");
        
         }
 
